@@ -1,0 +1,16 @@
+.flexboxing{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-evenly
+
+}
+
+.Todo{
+    margin-right: 3px;
+}
+
+.wip{
+    margin-right:3px;
+    
+}

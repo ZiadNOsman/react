@@ -1,0 +1,53 @@
+
+.email{
+    
+    float: left;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(124, 124, 124);
+    
+
+
+}
+
+.email p{
+    margin: 10px;
+    color: red;
+}
+
+
+/*
+h2{
+    margin-left: 10px;
+}
+
+h3{
+    float: left;
+    top: auto;
+    margin-left: 10px;
+    
+}
+h4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    float: left;
+    margin-left: 10px;
+    margin-top:23px;
+    font-weight: normal;
+    
+
+}
+
+p{
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 80px;
+
+    
+}
+
+a{
+    margin-left: 10px;
+}
+*/
